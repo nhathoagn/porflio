@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/porflio/static/css/main.a2c8d5fc.css",
+    "main.js": "/porflio/static/js/main.fd4b0641.js",
+    "static/js/415.4d6acbeb.chunk.js": "/porflio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/porflio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/leaf.png": "/porflio/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/emotion.png": "/porflio/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/suicide.png": "/porflio/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/codeEditor.png": "/porflio/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/blog.png": "/porflio/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/avatar.jpg": "/porflio/static/media/avatar.fd0aa9e8f0a5d3acb66e.jpg",
+    "static/media/home-main.svg": "/porflio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/ReactJS-Nguyen-Nhat-Hoang.pdf": "/porflio/static/media/ReactJS-Nguyen-Nhat-Hoang.457333cc085b3b42c8f4.pdf",
+    "static/media/about.png": "/porflio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/chatify.png": "/porflio/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/home-bg.jpg": "/porflio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/porflio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/porflio/index.html",
+    "main.a2c8d5fc.css.map": "/porflio/static/css/main.a2c8d5fc.css.map",
+    "main.fd4b0641.js.map": "/porflio/static/js/main.fd4b0641.js.map",
+    "415.4d6acbeb.chunk.js.map": "/porflio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/porflio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2c8d5fc.css",
+    "static/js/main.fd4b0641.js"
+  ]
+}
