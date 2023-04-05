@@ -29,8 +29,8 @@ function Projects() {
               description="Build a social networking site with functions of posting, commenting,
               following, messaging, videocall, audio call
               "
-              ghLink="https://github.com/soumyajit4419/Chatify"
-              demoLink="https://blogs.soumya-jit.tech/"
+              ghLink="https://github.com/nhathoagn/MERN-Stack-Social-Media-new-"
+              demoLink="https://github.com/nhathoagn/MERN-Stack-Social-Media-new-/tree/main/Demo-Social-Media"
             />
           </Col>
 
@@ -41,8 +41,8 @@ function Projects() {
               title="Web Chat Realtime"
               description="Use ReactJS, SocketIO, WebRTC to solve real-time messaging, videocall
               problems"
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
-              demoLink="https://blogs.soumya-jit.tech/"
+              ghLink="https://github.com/nhathoagn/WebChat_Realtime"
+              demoLink="https://github.com/nhathoagn/WebChat_Realtime/tree/main/Demo-ChatApp"
             />
           </Col>
 
@@ -50,11 +50,40 @@ function Projects() {
             <ProjectCard
               imgPath={editor}
               isBlog={false}
-              title="Youtube Clone"
-              description="Build a website with the same functions as youtube.
+              title="Netflix Clone"
+              description="Build a website with the same functions as Netflix.
+              "
+              ghLink="https://github.com/nhathoagn/netflix_clone"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={editor}
+              isBlog={false}
+              title="Blog Website"
+              description="Build a simple blog site (CRUD).
+              "
+              ghLink="https://github.com/nhathoagn/Blog_ReactJS.git"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={editor}
+              isBlog={false}
+              title="Build ChatGPT AI Tool"
+              description="Build ChatGPT AI Tool.
               "
               ghLink="https://github.com/soumyajit4419/Editor.io"
-              demoLink="https://blogs.soumya-jit.tech/"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={editor}
+              isBlog={false}
+              title="Youtube Clone"
+              description="Build a website with the same functions as Youtube.
+              "
+              ghLink="https://github.com/nhathoagn/youtube_clone"
             />
           </Col>
         </Row>
