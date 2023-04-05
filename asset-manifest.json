@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/porflio/static/css/main.a2c8d5fc.css",
-    "main.js": "/porflio/static/js/main.b288d392.js",
+    "main.js": "/porflio/static/js/main.fd4b0641.js",
     "static/js/415.4d6acbeb.chunk.js": "/porflio/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/porflio/static/js/787.1ed0c42c.chunk.js",
     "static/media/leaf.png": "/porflio/static/media/leaf.ff2616f664c8c0ceab91.png",
@@ -18,12 +18,12 @@
     "static/media/pre.svg": "/porflio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/porflio/index.html",
     "main.a2c8d5fc.css.map": "/porflio/static/css/main.a2c8d5fc.css.map",
-    "main.b288d392.js.map": "/porflio/static/js/main.b288d392.js.map",
+    "main.fd4b0641.js.map": "/porflio/static/js/main.fd4b0641.js.map",
     "415.4d6acbeb.chunk.js.map": "/porflio/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/porflio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a2c8d5fc.css",
-    "static/js/main.b288d392.js"
+    "static/js/main.fd4b0641.js"
   ]
 }
